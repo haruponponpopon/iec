@@ -33,6 +33,9 @@
 - [参考文献](https://towardsdatascience.com/stable-diffusion-using-hugging-face-variations-of-stable-diffusion-56fd2ab7a265)
 - textと画像を入力として画像を生成するimage2imageモデル
 - 画像生成のうち、textを数値に変換した行列をいじれるようにしたもの
+## advance/image2image_iec.ipynb
+- textと画像を入力として画像を生成するimage2imageモデルと、画像の数字ベースの対話的進化計算を組み合わせたもの
+- まだ同じ遺伝子なのに他の画像が表示されるバグが残ってる
 ## trouble shooting
 ### float16 と float32 が競合してエラー
 ```
