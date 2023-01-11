@@ -36,6 +36,21 @@
 ## advance/image2image_iec.ipynb
 - textと画像を入力として画像を生成するimage2imageモデルと、画像の数字ベースの対話的進化計算を組み合わせたもの
 - まだ同じ遺伝子なのに他の画像が表示されるバグが残ってる
+# ga(予備実験)
+## ga_txt_and_image.ipynb
+- textを入力として、画像を生成する
+- textも画像もどちらのベクトルも進化させる
+- 同じパスにiecディレクトリを用意する必要あり。ここに生成画像が保存される
+- fitness.txtに適合度の世代ごとの変化が保存される
+- エリート戦略、一様交叉、残りは突然変異
+## image2image_ga.ipynb
+- 画像、textを入力として、画像を生成するpipelineを使用
+- 画像ベクトルを進化させる
+## txt2image_ga.ipynb
+- textを入力として、画像を生成するもので、画像ベクトルを進化させる
+pre_experiment_gaディレクトリにある
+## graph_plot.ipynb
+- 適合度ファイル(fitness.txt)をもとにグラフを生成する
 ## trouble shooting
 ### float16 と float32 が競合してエラー
 ```
