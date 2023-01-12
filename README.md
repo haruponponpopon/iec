@@ -58,3 +58,8 @@ with autocast("cuda"):
 ```
 を入れる  
 - [参考文献](https://td2sk.hatenablog.com/entry/2022/08/24/001630)
+### local variable 'epoch' referenced before assignment
+globalを頭につける
+### name 'epoch' is used prior to global declaration
+同じ関数内でできるだけ早めに宣言する  
+手前にこの単語が出てきているとこのエラーになる
