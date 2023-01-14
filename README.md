@@ -63,3 +63,5 @@ globalを頭につける
 ### name 'epoch' is used prior to global declaration
 同じ関数内でできるだけ早めに宣言する  
 手前にこの単語が出てきているとこのエラーになる
+### TclError: image "pyimage5" doesn't exist
+一回絶対に動くコードで実行して動いたらエラーが解消される
