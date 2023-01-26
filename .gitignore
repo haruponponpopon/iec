@@ -2,3 +2,4 @@ iec/
 .ipynb_checkpoints
 pre_experiment_ga/created_image
 participant_data
+user_interface/user_experiment_data
