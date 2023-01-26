@@ -1,3 +1,0 @@
-1674705188.8209472 update_button_clicked_epoch0
-1674705243.1439316 finished_generaging_image_epoch1
-1674705254.6091747 finish_button_clicked_epoch1

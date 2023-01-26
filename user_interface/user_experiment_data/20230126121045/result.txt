@@ -1,2 +1,0 @@
-iec epoch 10 image 6
-conv epoch 0 image 0

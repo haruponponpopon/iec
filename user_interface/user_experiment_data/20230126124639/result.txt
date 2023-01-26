@@ -1,2 +1,0 @@
-iec epoch 2 image 2
-conv epoch 2 image 4
