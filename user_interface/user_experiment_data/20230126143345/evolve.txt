@@ -1,0 +1,42 @@
+epoch 1
+population 0
+crossover1 1
+crossover2 7
+population 1
+crossover1 3
+crossover2 3
+population 1 mutation
+population 3 mutation
+population 4 mutation
+population 6 mutation
+population 7 mutation
+population 0 initialize
+population 1 initialize
+epoch 2
+population 0
+crossover2 5
+crossover1 7
+population 1
+crossover1 7
+crossover2 7
+population 2
+crossover1 2
+crossover2 5
+population 2 mutation
+population 3 mutation
+population 5 mutation
+population 7 mutation
+population 0 initialize
+population 1 initialize
+epoch 3
+population 0
+crossover2 2
+crossover1 3
+population 2 mutation
+population 3 mutation
+population 4 mutation
+population 5 mutation
+population 6 mutation
+population 8 mutation
+population 0 initialize
+population 1 initialize
