@@ -1,4 +1,5 @@
 # iec
+![UI](https://user-images.githubusercontent.com/72332745/236678556-01767ad5-69a5-4929-841b-098b4c3113d3.png)
 ## stable_diffusion.ipynb
 - [参考文献](https://huggingface.co/CompVis/stable-diffusion-v1-4)
 - textを入力として、画像を生成する。基本的なモデル。
